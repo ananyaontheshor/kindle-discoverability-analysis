@@ -25,3 +25,6 @@ of quality or price.
 
 ## Tools
 Python, pandas, matplotlib, seaborn, Tableau
+
+## Dashboard
+Interactive Tableau dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/ananya.mittal8556/viz/KindleMarketplaceDiscoverabilityAnalysis/Dashboard1?publish=yes)
